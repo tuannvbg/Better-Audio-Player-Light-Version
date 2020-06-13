@@ -3,7 +3,7 @@ Better Audio Player Light Version: Play Audio Playlist
 Player Music Audio Playlist Modern Play (edit from codepen.io)
 demo: <a href="https://tuannvbg.github.io/Better-Audio-Player-Light-Version" target="blank">https://tuannvbg.github.io/Better-Audio-Player-Light-Version</a>
 Edit: Add, Remove, Delete. Examples
-[code]
+```JavaScript
 var playlist = [
 	{
 		"song"    : "Mỹ Nhân",
@@ -34,4 +34,5 @@ var playlist = [
 		"mp3"     : "https://archive.org/download/doan.-hieu-tinh.-sau.-thien.-thu.-muon.-loi/Doan.Hieu-Tinh.Sau.Thien.Thu.Muon.Loi.mp3"
 	}
 ];
-[/code]
+```
+
