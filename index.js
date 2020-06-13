@@ -24,7 +24,7 @@ var playlist = [
 	},
 	{
 		"song"    : "Tình Sầu Thiên Thu Muôn Lối",
-		"album"   : "The Best Of Triệu Hoàng",
+		"album"   : "Nhạc Trẻ Tuyển Chọn Năm 2020",
 		"artist"  : "Doãn Hiếu",
 		"artwork" : "https://archive.org/download/doan.-hieu.-avatar-2/Doan.Hieu.Avatar2.jpg",
 		"mp3"     : "https://archive.org/download/doan.-hieu-tinh.-sau.-thien.-thu.-muon.-loi/Doan.Hieu-Tinh.Sau.Thien.Thu.Muon.Loi.mp3"
